@@ -36,7 +36,9 @@ Ada dua jenis utama gradient CSS: linear gradient dan radial gradient.
 ```
 
 hasil:
+
 ![img](aset/IMG20.jpg)
+
 - Pada contoh di atas, gradient akan bergerak dari warna merah (red) ke putih (white) dari atas ke bawah.
 
 2. Radial Gradient:
@@ -48,7 +50,10 @@ hasil:
 ```
 
 hasil:
-![img](aset/IMG13.jpg)- Pada contoh ini, gradient akan memiliki bentuk lingkaran (circle) dengan gradasi dari warna merah (red) ke putih(white) dari dalam ke luar.
+
+![img](aset/IMG13.jpg)
+
+- Pada contoh ini, gradient akan memiliki bentuk lingkaran (circle) dengan gradasi dari warna merah (red) ke putih(white) dari dalam ke luar.
 - Selain itu, dalam CSS gradient, Anda juga dapat mengatur arah, titik awal dan akhir (pada linear gradient), dan bentuk (pada radial gradient) sesuai kebutuhan desain Anda. Gradient CSS adalah salah satu cara yang populer digunakan untuk memberikan tampilan modern dan kreatif pada halaman web.
 ## Penjelasan gradient manual:
 Gradient manual adalah proses menciptakan gradient secara langsung dengan menentukan warna dan lokasi tertentu dari warna-warna tersebut.Anda dapat mengubah warna atau arah gradiennya dengan mengedit nilai-nilai pada properti `background` di file `styles.css`.
@@ -98,14 +103,19 @@ body {
 ```
 
 hasil:
+
 ![img](aset/img18.jpg)
 ## cara pengunaan gradient generator 
  1. tekan ling ini https://cssgradient.io/
  2. setelah masuk pilih salah satu yang ada di bawah ini
  ![img](aset/img14.jpg)
-    jika memilih linier maka gradient akan bergerak dari atas ke bawah
+    
+   jika memilih linier maka gradient akan bergerak dari atas ke bawah
     jika memilih radial maka gradient akan memiliki bentuk lingkaran 
 3. jika sudah memilih maka atur lah warna di sini
-![img](css/aset/img19.jpg)4. setelah sudah memilih warna maka salin lah kode program di bawak ini lalu tempel di background program anda
+
+![img](css/aset/img19.jpg)
+
+4. setelah sudah memilih warna maka salin lah kode program di bawak ini lalu tempel di background program anda
 
 ![img](css/aset/img15.jpg)

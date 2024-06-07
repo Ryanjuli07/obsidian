@@ -12,6 +12,7 @@ contoh program
 </html>
 ```
 hasil program:
+
 ![img](aset/1.jpg)
 
 penjelasan program:
@@ -34,7 +35,9 @@ penjelasan program:
 </html>
 ```
 hasil program:
+
 ![img](aset/2.jpg)
+
 penjelasan program:
 - `<a href="https://www.chatgpt.com/">` merupakan tag pembuka.
 - `href` merupakan *nama atribut*.
@@ -66,7 +69,10 @@ penjelasan program:
 ```
 
 hasil program :
-![img](aset/11.jpg)penjelasan hasil program:
+
+![img](aset/11.jpg)
+
+penjelasan hasil program:
 Tag `<h1>` Digunakan untuk judul utama atau level judul tertinggi
 - Tag `<h2>` Menunjukkan tingkatan judul yang lebih rendah dari `<h1>` atau subjudul
 - Tag `<h3>` Menunjukkan tingkatan judul yang lebih rendah atau subjudul dari `<h2>`
@@ -149,7 +155,9 @@ Kode program :
 </html>
 ```
 hasil program
+
 ![img](21.jpg)
+
 
 dengan menuliskan komentar dapat membantu program untuk mengingat hal hal penting dan dapat dituliskan tanpa terbaca di browser.
 ## multimedia 
@@ -168,6 +176,7 @@ Kode Program :
 </html>
 ```
 hasil program:
+
 ![img](aset/5.jpg)
 
 ## menambah vidio
@@ -183,6 +192,7 @@ hasil program:
   </html>
 ```
 hasil program
+
 ![img](aset/6.jpg)
 
 # menambah audio​
@@ -200,6 +210,7 @@ hasil program
 
 ```
 hasil program 
+
 ![img](aset/7.jpg)
 
 # iframe
@@ -221,6 +232,7 @@ Dalam tag `<iframe>` ada beberapa atribut yang penting seperti;
 </html>
 ```
 hasil program
+
 ![img](aset/8.jpg)
 
 # tabel
@@ -267,7 +279,9 @@ Tabel dalam HTML didefinisikan dengan tag `<table>`
 </html>
 ```
 hasil program
+
 ![img](22.jpg)
+
 penjelasan
 tag `<tables>`
 tag table berfungsi sebagai pembuka untuk struktur tabel sehingga tabel dapat terbentuk dan tag ini tetap memerlukan bantuan dari beberapa elemen serta atribut.

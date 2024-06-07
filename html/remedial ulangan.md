@@ -57,6 +57,7 @@
 - `</html>`: Menutup tag HTML dan akhir dari dokumen HTML.
 
 ## hasil program
+
 ![img](aset/img.1.jpg)
 
 # list bunga
@@ -155,6 +156,7 @@
 - **Komplemen**: Terdapat tautan tambahan di bagian bawah untuk kembali ke halaman utama.
 
 ## hasil program
+
 ![img](aset/img.3.jpg)
 ## order bunga
 ```html
@@ -216,4 +218,5 @@ Elemen `<h1>` menampilkan judul besar "Pesan Bunga".
 - **hr**: Elemen `<hr>` digunakan untuk membuat garis horizontal sebagai pemisah.
 - **a href**: Elemen ini digunakan untuk membuat tautan hyperlink untuk melihat daftar bunga dan kembali ke halaman utama.
 ## hasil program
+
 ![img](aset/img2.jpg)

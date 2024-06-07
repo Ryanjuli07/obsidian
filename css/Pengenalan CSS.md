@@ -198,6 +198,7 @@ text-decoration berfungsi untuk memberi dekorasi pada teks yang akan ditulis ses
 }
 ```
 dan hasilnya akan seperti berikut :
+
 ![Gambar](Aset/IMG8/IMG8_9.png)
 
 #### Text-Trasformation
@@ -208,6 +209,8 @@ text-transformation ini berfungsi untuk mengtransformasikan teks yang telah dibu
 }
 ```
 dan hasilnya akan seperti berikut :
+
+
 ![Gambar](Aset/IMG8/IMG8_10.png)
 
 #### Teks-Indent
@@ -218,6 +221,7 @@ teks-indent ini berfungsi untuk memberi jarak di awal penulisan atau simpelnya s
 }
 ```
 dan hasilnya akan seperti berikut :
+
 ![Gambar](Aset/IMG8/IMG8_11.png)
 
 #### Letter-Spacing
@@ -228,6 +232,7 @@ lalu untuk latter-spacing ialah untuk memberi jarak di antara setiap huruf yang 
 }
 ```
 dan hasilnya akan seperti berikut :
+
 ![Gambar](Aset/IMG8/IMG8_12.png)
 
 #### Line-Height
@@ -238,6 +243,7 @@ untuk line-height ialah untuk memberi jarak pada suatu teks dengan teks di atasn
 }
 ```
 dan hasilnya akan seperti dibawah ini :
+
 ![Gambar](Aset/IMG8/IMG8_13.png)
 
 #### Word-Spacing
@@ -248,6 +254,7 @@ dan terakhir ialah word-spacing fungsinya untuk memberi jarak di antara setiap k
 }
 ```
 dan hasilnya akan seperti berikut :
+
 ![Gambar](Aset/IMG8/IMG8_14.png)
 
 
@@ -262,6 +269,7 @@ untuk background image ini kita akan dapat menampilkan background dengan image s
 }
 ```
 dan hasilnya akan speeri berikut :
+
 ![Gambar](Aset/IMG8/IMG8_15.png)
 
 #### Background-Size
@@ -276,6 +284,7 @@ lalu untuk background size kita mengatur size/ukuran dari background yang kita g
 }
 ```
 dan hasilnya akan seperti berikut :
+
 ![Gambar](Aset/IMG8/IMG8_16.png)
 
 #### Background-Repeat
@@ -291,6 +300,7 @@ untuk background-repeat ini mengulang gambar dalam ukurannya dan untuk penggunaa
 }
 ```
 dan hasilnya akan seperti dibawah ini :
+
 ![Gambar](Aset/IMG8/IMG8_17.png)
 
 
@@ -307,6 +317,7 @@ background-attachment ini mengatur ketetapan image yang di gunakan contohnya ial
 }
 ```
 dan hasilnya akan seperti berikut :
+
 ![Gambar](Aset/IMG8/IMG8_18.png)
 
 
@@ -324,6 +335,7 @@ dan yang terakhir ialah background-postion dan fungsinya ialah untuk mengatur po
 }
 ```
 dan hasilnya akan seperti dibawah ini :
+
 ![Gambar](Aset/IMG8/IMG8_19.png)
 
 
@@ -339,6 +351,7 @@ untuk font-size berfungsi untuk mengatur ukuran dari teks yang di ketikkan dan v
 }
 ```
 dan hasilnya akan seperti dibawah ini :
+
 ![Gambar](Aset/IMG8/IMG8_20.png)
 
 #### Font-Style
@@ -350,6 +363,7 @@ untuk font-style berfungsi untuk mengatur gaya dari teks yang diketikkan untuk v
 }
 ```
 dan hasilnya akan seperti dibawah ini :
+
 ![Gambar](Aset/IMG8/IMG8_21.png)
 
 
@@ -363,6 +377,7 @@ untuk font-weight adalah untuk mengatur ketebalan dari teks yang kita ketikkan d
 }
 ```
 dan hasilnya akan seperti berikut :
+
 ![Gambar](Aset/IMG8/IMG8_22.png)
 
 
@@ -377,12 +392,14 @@ dan yang terakhir ialah font-family ialah untuk mengatur jenis font yang diingin
 }
 ```
 dan hasilnya akan seperti berikut :
+
 ![Gambar](Aset/IMG8/IMG8_23.png)
 
 
 
 # Box model
 Untuk box model kita akan mempelajari mengenai border, padding, margin dan hal hal lainnya mengenai permodelan box. untuk lebih jelasnya kita akan menggunakan contoh di bawah :
+
 ![Gambar](Aset/IMG9/IMG9_1.png)
 
 untuk membuat button dengan model di atas kita akan menggunakan beberapa style disini saya akan menjelaskan mengenai border dan padding pada button ini namun saya tidak akan menjelaskan mengenai style lainnya dikarenakan telah di jelaskan di materi sebelumnya, berikut ialah style style yang digunakan :
@@ -479,6 +496,7 @@ untuk membuat button dengan model di atas kita akan menggunakan beberapa style d
 }
 ```
 **Hasilnya akan seperti berikut :**
+
 ![Gambar](Aset/IMG9/IMG9_3.png)
 
 
@@ -508,6 +526,7 @@ Padding-bottom ini berfungsi untuk mengatur jarak antara objek dengan bordernya 
 
 ## Contoh Border Lain
 Untuk contoh border kedua ialah menggunakan margin untuk mengatur jarak buttonnya menggunakan padding  contohnya akan seperti di bawah ini :
+
 ![Gambar](Aset/IMG9/IMG9_2.png)
 
 ## ==Margin== 
@@ -542,6 +561,7 @@ button:hover{
 }
 ```
 **Hasil :**
+
 ![Gambar](Aset/IMG10/IMG10_1.png)
 #### Kesimpulan
 property dalam style button yang diberi hover akan mengubah button pada saat kursor di arahkan ke arah objek (Hover) sesuai degan yang di isikan di `button:hover` seperti yang telah nampak di atas. 
@@ -556,6 +576,7 @@ button:active{
 }
 ```
 **Hasil :**
+
 ![Gambar](Aset/IMG10/IMG10_2.png)
 #### Kesimpulan
 Teks "klik broo" akan berganti warna menjadi kuning jika ditekan sesuai dengan program di atas. 
@@ -680,8 +701,11 @@ img{
 
 ```
 **Hasil Before :**
+
 ![Gambar](Aset/IMG10/IMG10_4.png)
+
 **Hasil After :**
+
 ![Gambar](Aset/IMG10/IMG10_5.png)
 
 
@@ -702,6 +726,7 @@ button:active{
   }
 ```
 **Hasil :**
+
 ![Gambar](Aset/IMG10/IMG10_3.png)
 
 #### Kesimpulan
@@ -849,6 +874,7 @@ Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`fle
       }
 ```
 **Hasil :**
+
 ![Gambar](Aset/IMG10/IMG10_4.png)
 
 # Position
@@ -869,8 +895,11 @@ box-1{
 ```
 ### Hasil 
 **Before :**
+
 ![Gambar](Aset/IMG11/IMG11_1.png)
+
 **After :**
+
 ![Gambar](Aset/IMG11/IMG11_2.png)
 #### Kesimpulan
 elemen dengan kelas "box-1" mengatur latar belakang menjadi warna aqua dan menggeser elemen 20 piksel ke bawah dan 30 piksel ke kanan dari posisi defaultnya.
@@ -892,8 +921,11 @@ elemen dengan kelas "box-1" mengatur latar belakang menjadi warna aqua dan mengg
 ```
 ### Hasil 
 **Before :**
+
 ![Gambar](Aset/IMG11/IMG11_1.png)
+
 **After :**
+
 ![Gambar](Aset/IMG11/IMG11_3.png)
 ### Kesimpulan
 kelas "box-2" menetapkan latar belakangnya menjadi warna ungu (purple) dan mengatur posisinya secara absolut,dimana elemen digeser 15 piksel dari atas dan 10 piksel dari kiri.
@@ -915,8 +947,11 @@ box-1{
 ```
 ### Hasil 
 **Before :**
+
 ![Gambar](Aset/IMG11/IMG11_1.png)
+
 **After :**
+
 ![Gambar](Aset/IMG11/IMG11_4.png)
 ### Kesimpulan
 position: fixed, elemen akan tetap berada pada posisinya yang ditentukan jika discrool.properti top dan left digunakan untuk menentukan jarak elemen dari tepi atas dan kiri. 
@@ -938,8 +973,11 @@ box-1{
 ```
 ### Hasil 
 **Before :**
+
 ![Gambar](Aset/IMG11/IMG11_1.png)
+
 **After :**
+
 ![Gambar](Aset/IMG11/IMG11_5.png)
 ### Kesimpulan
 `position: sticky`, elemen akan seperti posisi relatif sampai jarak scroll mencapai nilai tertentu. elemen akan tetap berada pada posisi yang telah ditentukan saat jarak scroll mencapai nilai tertentu, sambil tetap mengikuti pergeseran scroll di bawahnya.
@@ -1108,6 +1146,7 @@ box-1{
 - `.like img`: Mengatur gaya untuk gambar di dalam tombol "suka".
 - `.item3 img`: Mengatur gaya untuk gambar di dalam item 3.
 **Hasil :**
+
 ![Gambar](Aset/IMG11/IMG11_6.png)
 ## Kesimpulan
 Program ini menggunakan HTML untuk membuat struktur konten dan CSS untuk merancang tampilannya. Elemen-elemen seperti gambar, teks, dan tombol diberikan gaya untuk menciptakan tampilan yang menarik dan responsif. Penggunaan posisi relatif, absolut, dan sticky memungkinkan penempatan yang tepat dari elemen-elemen tersebut di halaman.
@@ -1187,8 +1226,11 @@ Saat mendesain website, mulailah dengan mempertimbangkan tampilan website pada p
 
 # Implementasi CSS Responsif
 **Sebelum Responsif :**
+
 ![Gambar](Aset/IMG12/IMG_1.png)
+
 **Sesudah Responsif :**
+
 ![Gambar](Aset/IMG12/IMG_2.png)
 ## Kode
 ### HTML

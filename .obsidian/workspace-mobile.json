@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/Pengenalan CSS.md",
+                "file": "css/materi gradient (manual dan generator).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "css/Pengenalan CSS.md",
+            "file": "css/materi gradient (manual dan generator).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "css/Pengenalan CSS.md",
+            "file": "css/materi gradient (manual dan generator).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "css/Pengenalan CSS.md"
+            "file": "css/materi gradient (manual dan generator).md"
           }
         }
       }
@@ -144,6 +144,11 @@
   },
   "active": "2dc903f34bd55b72",
   "lastOpenFiles": [
+    "html/form.md",
+    "html/materi html (5).md",
+    "html/pembuatan website (4).md",
+    "html/remedial ulangan.md",
+    "css/Pengenalan CSS.md",
     "css/materi gradient (manual dan generator).md",
     "css/aset/IMG13.jpg",
     "css/aset/IMG15.jpg",
@@ -153,14 +158,10 @@
     "css/aset/IMG3/IMG2.jpg",
     "css/aset/IMG2/IMG2.jpg",
     "css/aset/IMG1/IMG1.jpg",
-    "html/remedial ulangan.md",
     "php/PHP Dasar.md",
     "basis data/2. Basis Data/Alter.md",
     "html/pertemuan 1.md",
     "html/pengenalan (2).md",
-    "html/pembuatan website (4).md",
-    "html/form.md",
-    "css/Pengenalan CSS.md",
     "css/Remedial pesona.md",
     "css/remedial pesona/Aset/Aset5.jpg",
     "css/remedial pesona/Aset/Aset6.png",
@@ -169,7 +170,6 @@
     "css/remedial pesona/Aset",
     "css/pengenalan CSS.md",
     "aset.md",
-    "html/materi html (5).md",
     "2024-04-29.md",
     "Image.1.jpg.md",
     "basis data/2. Basis Data/Select Lanjutan.md",
