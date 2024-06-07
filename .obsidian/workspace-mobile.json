@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "9428d83cf15d5f1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "df0ff89c2eadfb9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc903f34bd55b72",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "css/aset/IMG4/IMG4_(3).jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "293c11864e470fa5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "44cf0b518c20c089",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "a92527e21b76f2c8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "54a66ccf1b1fce93",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "dc26c1fdecf62a79",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "602c374105924944",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e4dd8c5ce107915b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "26934d952278633e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "css/aset/IMG4/IMG4_(3).jpg",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "81f1ecdb65377328",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "css/aset/IMG4/IMG4_(3).jpg",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3d03c0e1396a60ed",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "css/aset/IMG4/IMG4_(3).jpg"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "notion-like-tables:Create loom": false
+    }
+  },
+  "active": "2dc903f34bd55b72",
+  "lastOpenFiles": [
+    "css/aset/IMG4/IMG4_(2).jpg",
+    "css/aset/IMG4/IMG4_(1).jpg",
+    "css/aset/IMG3/IMG2.jpg",
+    "css/aset/IMG2/IMG2.jpg",
+    "css/aset/IMG1/IMG1.jpg",
+    "html/remedial ulangan.md",
+    "php/PHP Dasar.md",
+    "basis data/2. Basis Data/Alter.md",
+    "html/pertemuan 1.md",
+    "html/pengenalan (2).md",
+    "html/pembuatan website (4).md",
+    "html/form.md",
+    "css/materi gradient (manual dan generator).md",
+    "css/Pengenalan CSS.md",
+    "css/Remedial pesona.md",
+    "css/remedial pesona/Aset/Aset5.jpg",
+    "css/remedial pesona/Aset/Aset6.png",
+    "css/remedial pesona/Aset/Aset7.png",
+    "css/remedial pesona/Aset/Aset8.png",
+    "css/remedial pesona/Pesona indonesia.md",
+    "css/remedial pesona/Aset/Aset2.jpg",
+    "css/remedial pesona/Aset/Aset1.jpg",
+    "css/remedial pesona",
+    "css/remedial pesona/Aset",
+    "css/pengenalan CSS.md",
+    "aset.md",
+    "html/materi html (5).md",
+    "2024-04-29.md",
+    "Image.1.jpg.md",
+    "basis data/2. Basis Data/Select Lanjutan.md",
+    "praktikum/Catatan.md",
+    "basis data/select.md",
+    "basis data/alter tabel.md",
+    "basis data/2. Basis Data/Pengenalan Mysql.md",
+    "basis data/insert & select.md",
+    "basis data/basis data (3).md",
+    "basis data/panduan termux.md",
+    "basis data/2. Basis Data/Aset/IMG8",
+    "basis data/2. Basis Data/Aset/IMG7",
+    "basis data/2. Basis Data/Aset/IMG6",
+    "basis data/2. Basis Data/Aset/IMG5",
+    "basis data/2. Basis Data/Aset/IMG4",
+    "basis data/2. Basis Data/Aset/IMG3",
+    "basis data/2. Basis Data/Aset/IMG2",
+    "basis data/2. Basis Data/Aset/IMG1",
+    "basis data/Untitled.md"
+  ]
+}

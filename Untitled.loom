@@ -1,0 +1,211 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "3e02c555-d9ed-410b-9fe5-443ea442660b",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "nama",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "752d2371-a354-4186-a155-0d9641b51d3a",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "umur",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "e39c1b74-5449-4bfb-8490-95d57342ee7b",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "asal negara",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "9db62007-8168-4dc1-9bfc-11d54a090645",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "posisi",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "d3dc7e8b-fe52-4001-8447-1384c2be4c7c",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-01-23T01:04:00.981Z",
+        "lastEditedDateTime": "2024-01-23T01:10:29.020Z",
+        "cells": [
+          {
+            "id": "e92f823b-009a-4860-934d-b61141f6ebd3",
+            "columnId": "3e02c555-d9ed-410b-9fe5-443ea442660b",
+            "content": "ramos",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a6f2bd46-abb5-44ab-976f-775cd2f5a3fc",
+            "columnId": "752d2371-a354-4186-a155-0d9641b51d3a",
+            "content": "37",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "76cd17aa-9533-49b4-8c49-2efc5ca54b3f",
+            "columnId": "e39c1b74-5449-4bfb-8490-95d57342ee7b",
+            "content": "spanyol",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "77bddf91-6a4a-4d72-b5c6-1ca9297a0828",
+            "columnId": "9db62007-8168-4dc1-9bfc-11d54a090645",
+            "content": "CB",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f4de7f89-2a51-4c8c-8758-e070d4dd78ed",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-01-23T01:05:32.519Z",
+        "lastEditedDateTime": "2024-01-23T01:10:19.056Z",
+        "cells": [
+          {
+            "id": "eb1e6bb5-21c9-4b9a-b506-fe5b7a5bd72a",
+            "columnId": "3e02c555-d9ed-410b-9fe5-443ea442660b",
+            "content": "ranoldo",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "59318c89-5a68-48be-803d-c9bb9bb019ec",
+            "columnId": "752d2371-a354-4186-a155-0d9641b51d3a",
+            "content": "38",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7a92313d-9b0e-4f9f-abd0-524c11ec410d",
+            "columnId": "e39c1b74-5449-4bfb-8490-95d57342ee7b",
+            "content": "portugal",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d8b451ee-095e-4682-83ca-2e6d2f53a00b",
+            "columnId": "9db62007-8168-4dc1-9bfc-11d54a090645",
+            "content": "ST",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "47d56ac5-44da-4bf8-bccb-c11ca5c15f21",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-01-23T01:05:37.387Z",
+        "lastEditedDateTime": "2024-01-23T01:10:13.635Z",
+        "cells": [
+          {
+            "id": "b83ddc89-7e66-43a9-9bc2-897b2e9e3aef",
+            "columnId": "3e02c555-d9ed-410b-9fe5-443ea442660b",
+            "content": "messi",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e84dac89-c9d8-44bf-a4e7-456bcf03b453",
+            "columnId": "752d2371-a354-4186-a155-0d9641b51d3a",
+            "content": "36",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bfb162c4-019c-4ee3-9a4c-6438510935f7",
+            "columnId": "e39c1b74-5449-4bfb-8490-95d57342ee7b",
+            "content": "Argentina ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "def89df3-0ffc-41eb-baec-63b4587b0c8c",
+            "columnId": "9db62007-8168-4dc1-9bfc-11d54a090645",
+            "content": "RWF",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.11"
+}
