@@ -97,13 +97,15 @@ body {
 
 ```
 
-hasil:![img](aset/img18.jpg)
+hasil:
+![img](aset/img18.jpg)
 ## cara pengunaan gradient generator 
  1. tekan ling ini https://cssgradient.io/
- 2. setelah masuk pilih salah satu yang ada di bawah ini![img](aset/img14.jpg)
+ 2. setelah masuk pilih salah satu yang ada di bawah ini
+ ![img](aset/img14.jpg)
     jika memilih linier maka gradient akan bergerak dari atas ke bawah
     jika memilih radial maka gradient akan memiliki bentuk lingkaran 
 3. jika sudah memilih maka atur lah warna di sini
-![img](aset/img19.jpg)
-4. setelah sudah memilih warna maka salin lah kode program di bawak ini lalu tempel di background program anda
-    ![img](aset/img15.jpg)
+![img](css/aset/img19.jpg)4. setelah sudah memilih warna maka salin lah kode program di bawak ini lalu tempel di background program anda
+
+![img](css/aset/img15.jpg)

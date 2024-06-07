@@ -9,7 +9,9 @@ p {
 }
 ```
 **hasil program :** 
+ 
  ![Gambar](Aset/IMG8/IMG8_1.png)
+
 > [!info]- Penjelasan
 >>Jadi pada contoh program di atas *P* berperan sebagai **selector** lalu *color* berperean sebagai **Property** dan *Red* berperan sebagai **Property Value**.
 
@@ -25,8 +27,8 @@ DIV adalah elemen tingkat blok yang digunakan untuk membuat bagian, sedangkan SP
 >>Span ialah tag yang digunakan untuk mengetikkan sesuatu namun cakupan areanya akan mengambil sesuai yang diketikkan saja.
 ### Perbedaan div & span
 Perbedaanya terletak di cakupan area/area box yang di ambilnya contoh nya seperti yang sudah dijelaskan di atas yaitu div mengambil cakupan satu baris sedangkat span hanya mengambil cakupan sesuai yang diketikkan saja, untuk contohnya akan seperti dibawah ini :
-![Gambar](Aset/IMG8/IMG8_2.png)
 
+![Gambar](Aset/IMG8/IMG8_2.png)
 
 # Tantangan I
 ## Percobaan I
@@ -41,6 +43,7 @@ Perbedaanya terletak di cakupan area/area box yang di ambilnya contoh nya sepert
       <p>Welcome CSS</p>
 ```
 **Hasil program :**
+
 ![Gambar](Aset/IMG8/IMG8_3.png)
 
 > [!info]- Penjelasan 
@@ -66,8 +69,11 @@ Perbedaanya terletak di cakupan area/area box yang di ambilnya contoh nya sepert
 
 ### Font-weight
 **Before :
+
 ![Gambar](Aset/IMG8/IMG8_4.png)
+
 After :**
+
 ![Gambar](Aset/IMG8/IMG8_5.png)
 
 > [!info]- Penjelasan *font weight*
@@ -75,8 +81,11 @@ After :**
 
 ### Text-transform
 **Before :
+
 ![Gambar](Aset/IMG8/IMG8_4.png)
+
 After :**
+
 ![Gambar](Aset/IMG8/IMG8_6.png)
 
 > [!Info]- Penjelasan *Text transfrom*
@@ -84,8 +93,11 @@ After :**
 
 ### Border-radius
 **Before :
+
 ![Gambar](Aset/IMG8/IMG8_4.png)
+
 After :**
+
 ![Gambar](Aset/IMG8/IMG8_7.png)
 
 > [!Info]- Penjelasan *Border radius*
@@ -175,6 +187,7 @@ text align ini mengatur rata kiri kanan dari sebuah teks yang akan di ketik dan 
 }
 ```
 dan hasilnya akan seperti berikut :
+
 ![Gambar](Aset/IMG8/IMG8_8.png)
 
 #### Text-Decoration

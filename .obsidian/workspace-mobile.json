@@ -11,9 +11,11 @@
             "id": "2dc903f34bd55b72",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "css/aset/IMG4/IMG4_(3).jpg"
+                "file": "css/Pengenalan CSS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "css/aset/IMG4/IMG4_(3).jpg",
+            "file": "css/Pengenalan CSS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "css/aset/IMG4/IMG4_(3).jpg",
+            "file": "css/Pengenalan CSS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "css/aset/IMG4/IMG4_(3).jpg"
+            "file": "css/Pengenalan CSS.md"
           }
         }
       }
@@ -142,6 +144,10 @@
   },
   "active": "2dc903f34bd55b72",
   "lastOpenFiles": [
+    "css/materi gradient (manual dan generator).md",
+    "css/aset/IMG13.jpg",
+    "css/aset/IMG15.jpg",
+    "css/aset/IMG4/IMG4_(3).jpg",
     "css/aset/IMG4/IMG4_(2).jpg",
     "css/aset/IMG4/IMG4_(1).jpg",
     "css/aset/IMG3/IMG2.jpg",
@@ -154,16 +160,11 @@
     "html/pengenalan (2).md",
     "html/pembuatan website (4).md",
     "html/form.md",
-    "css/materi gradient (manual dan generator).md",
     "css/Pengenalan CSS.md",
     "css/Remedial pesona.md",
     "css/remedial pesona/Aset/Aset5.jpg",
     "css/remedial pesona/Aset/Aset6.png",
-    "css/remedial pesona/Aset/Aset7.png",
-    "css/remedial pesona/Aset/Aset8.png",
     "css/remedial pesona/Pesona indonesia.md",
-    "css/remedial pesona/Aset/Aset2.jpg",
-    "css/remedial pesona/Aset/Aset1.jpg",
     "css/remedial pesona",
     "css/remedial pesona/Aset",
     "css/pengenalan CSS.md",
