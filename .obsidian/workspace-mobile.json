@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/materi gradient (manual dan generator).md",
-                "mode": "source",
+                "file": "css/Pengenalan CSS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "css/materi gradient (manual dan generator).md",
+            "file": "css/Pengenalan CSS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "css/materi gradient (manual dan generator).md",
+            "file": "css/Pengenalan CSS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "css/materi gradient (manual dan generator).md"
+            "file": "css/Pengenalan CSS.md"
           }
         }
       }
@@ -144,12 +144,17 @@
   },
   "active": "2dc903f34bd55b72",
   "lastOpenFiles": [
+    "php/PHP Dasar.md",
+    "php/aset/9.png",
+    "php/aset/22.png",
+    "php/aset/12.png",
+    "css/materi gradient (manual dan generator).md",
+    "basis data/alter tabel.md",
     "html/form.md",
     "html/materi html (5).md",
     "html/pembuatan website (4).md",
     "html/remedial ulangan.md",
     "css/Pengenalan CSS.md",
-    "css/materi gradient (manual dan generator).md",
     "css/aset/IMG13.jpg",
     "css/aset/IMG15.jpg",
     "css/aset/IMG4/IMG4_(3).jpg",
@@ -157,14 +162,10 @@
     "css/aset/IMG4/IMG4_(1).jpg",
     "css/aset/IMG3/IMG2.jpg",
     "css/aset/IMG2/IMG2.jpg",
-    "css/aset/IMG1/IMG1.jpg",
-    "php/PHP Dasar.md",
     "basis data/2. Basis Data/Alter.md",
     "html/pertemuan 1.md",
     "html/pengenalan (2).md",
     "css/Remedial pesona.md",
-    "css/remedial pesona/Aset/Aset5.jpg",
-    "css/remedial pesona/Aset/Aset6.png",
     "css/remedial pesona/Pesona indonesia.md",
     "css/remedial pesona",
     "css/remedial pesona/Aset",
@@ -175,7 +176,6 @@
     "basis data/2. Basis Data/Select Lanjutan.md",
     "praktikum/Catatan.md",
     "basis data/select.md",
-    "basis data/alter tabel.md",
     "basis data/2. Basis Data/Pengenalan Mysql.md",
     "basis data/insert & select.md",
     "basis data/basis data (3).md",

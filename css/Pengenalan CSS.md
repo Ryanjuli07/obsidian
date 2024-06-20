@@ -269,9 +269,6 @@ untuk background image ini kita akan dapat menampilkan background dengan image s
 }
 ```
 dan hasilnya akan speeri berikut :
-
-![Gambar](Aset/IMG8/IMG8_15.png)
-
 #### Background-Size
 lalu untuk background size kita mengatur size/ukuran dari background yang kita gunakan dan valuenya dapat kita atur sesuai dengan keinginan kita. untuk contoh penggunananya akan seperti berikut ini :
 ```css
@@ -284,8 +281,6 @@ lalu untuk background size kita mengatur size/ukuran dari background yang kita g
 }
 ```
 dan hasilnya akan seperti berikut :
-
-![Gambar](Aset/IMG8/IMG8_16.png)
 
 #### Background-Repeat
 untuk background-repeat ini mengulang gambar dalam ukurannya dan untuk penggunaannya akan seperti dibawah ini:
@@ -300,10 +295,6 @@ untuk background-repeat ini mengulang gambar dalam ukurannya dan untuk penggunaa
 }
 ```
 dan hasilnya akan seperti dibawah ini :
-
-![Gambar](Aset/IMG8/IMG8_17.png)
-
-
 #### Background-Attachment
 background-attachment ini mengatur ketetapan image yang di gunakan contohnya ialah seperti penggunaan value "fixed" yang membuat gambar tetap berada di posisinya walau di scroll, untuk contoh penggunaanya akan seperti berikut :
 ```css
@@ -317,9 +308,6 @@ background-attachment ini mengatur ketetapan image yang di gunakan contohnya ial
 }
 ```
 dan hasilnya akan seperti berikut :
-
-![Gambar](Aset/IMG8/IMG8_18.png)
-
 
 #### Background-Postion
 dan yang terakhir ialah background-postion dan fungsinya ialah untuk mengatur posisi dari background yang digunakan, untuk contoh penggunaanya aka seperti dibawah ini :
@@ -335,8 +323,6 @@ dan yang terakhir ialah background-postion dan fungsinya ialah untuk mengatur po
 }
 ```
 dan hasilnya akan seperti dibawah ini :
-
-![Gambar](Aset/IMG8/IMG8_19.png)
 
 
 ## ==Materi Font==
@@ -496,9 +482,6 @@ untuk membuat button dengan model di atas kita akan menggunakan beberapa style d
 }
 ```
 **Hasilnya akan seperti berikut :**
-
-![Gambar](Aset/IMG9/IMG9_3.png)
-
 
 ## ==Border==
 untuk border terdapat beberapa jenis yang akan digunakan mulai dari radius,width,color dan style untuk penjelasan lebih lanjutnya akan dijelaskan di sub materi di bawah.
@@ -700,14 +683,9 @@ img{
 }
 
 ```
-**Hasil Before :**
-
-![Gambar](Aset/IMG10/IMG10_4.png)
+**Hasil Before :
 
 **Hasil After :**
-
-![Gambar](Aset/IMG10/IMG10_5.png)
-
 
 # Transform 
 ### Penjelasan
@@ -874,8 +852,6 @@ Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`fle
       }
 ```
 **Hasil :**
-
-![Gambar](Aset/IMG10/IMG10_4.png)
 
 # Position
 ## Position Relative

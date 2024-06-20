@@ -5,16 +5,13 @@ PHP (Hypertext Preprocessor) adalah sebuah bahasa skrip dengan fungsi umum yang 
 
 ## Penggunaan Awal PHP 
 untuk penggunaan awal PHP kita harus mengikuti langkah langkah berikut.
-1) Buka XAMPP lalu aktifkan "MySQL" dan "Apache". ![Gambar](aset/1.png)
+1) Buka XAMPP lalu aktifkan "MySQL" dan "Apache".
 2) Masuk ke directory C.
-   [Gambar](aset/2.png)
-3) Buka folder XAMPP lalu buka folder Htdocs.![img](aset/3.png)
-4) Buat folder dengan nama yang anda inginkan.![Gambar](aset/4.png)5) Kemudian Masuk ke VSCode lalu klik "Open Folder" dan pilih folder yang telah anda buat.![Gambar](aset/5.png)
+3) Buka folder XAMPP lalu buka folder Htdocs.!
+4) Buat folder dengan nama yang anda inginkan
+5) Kemudian Masuk ke VSCode lalu klik "Open Folder" dan pilih folder yang telah anda buat.!
 6) Buat Dokumen dengan ekstensi "php".
-   ![Gambar](aset/6.png)
- 
-6) Untuk mengetikkan program php, dokemnnya selalu dibuka dengan "`<?php`" dan di akhiri dengan `?>`.
-   ![Gambar](aset/7.png)
+   Untuk mengetikkan program php, dokemnnya selalu dibuka dengan "`<?php`" dan di akhiri dengan `?>`.
 7) Anda telah dapat membuat kode program PHP sesuai dengan keinginan anda.
 ## Echo & Komentar 
 Dalam php kita dapat mengetikkan sesuatu dengan kode "echo" dan menambahkan membuat sebuah komentar di penulisan program untuk penjelasan lebih lanjutnya akan dijelaskan di bawah ini. Dalam penulisan echo terdapat dua cara yaitu dengan kutip satu dan kutip dua, lalu untuk perbedaan antara keduanya akan dijelaskan lebih lanjut dibawah ini.
@@ -73,7 +70,7 @@ Operator aritmatika berfungsi untuk penjumlah, pengurangan, perkalian dan pembag
 
 ```
 **Hasil :**
-![gambar](aset/8.png)
+
 > [! info]- Analisis penjumlahan
 >> `$a = 10;` : berfungsi sebagai variable yang memiliki nilai "10"
 >> `$b = 5;` : berfungsi sebagai variable yang memiliki nilai "5"
@@ -91,7 +88,7 @@ operator `+` berfungsi untuk menjumlahkan isi dari variable yang kita ketikkan, 
     echo "Pengurangan: " . $Pengurangan . "<br>";
 ```
 **Hasil :**
-![gambar](aset/9.png)
+
 
 > [! info]- Analisis pengurangan
 >> `$a = 10;` : berfungsi sebagai variable yang memiliki nilai "10"
@@ -109,7 +106,7 @@ operator `-` berfungsi untuk menguragi isi dari variable yang kita ketikkan, dan
     echo "Perkalian: " . $Perkalian . "<br>";
 ```
 **Hasil :**
-![gambar](aset/10.png)
+
 
 > [! info]- Analisis perkalian
 >> `$a = 10;` : berfungsi sebagai variable yang memiliki nilai "10"
@@ -127,7 +124,7 @@ operator `*` berfungsi untuk mengkali isi dari variable yang kita ketikkan, dan 
     echo "pembagian: " . $pembagian . "<br>";
 ```
 **Hasil :**
-![gambar](aset/11.png)
+
 
 > [! info]- Analisis pembagian
 >> `$a = 10;` : berfungsi sebagai variable yang memiliki nilai "10"
@@ -154,7 +151,7 @@ if ($a == $b) {
 }
 ```
 **Hasil :**
-![gambar](aset/12.png)
+
 
 > [! info]- Analisis pembagian ==
 >> `$a = 5;` : berfungsi sebagai variable yang memiliki nilai "5"
@@ -175,7 +172,7 @@ if ($a != $b) {
 }
 ```
 **Hasil :**
-![gambar](aset/13.png)
+
 
 > [! info]- Analisis pembagian !=
 >> `$a = 5;` : berfungsi sebagai variable yang memiliki nilai "5"
@@ -195,7 +192,7 @@ if ($a > $b) {
 }
 ```
 **Hasil :**
-![gambar](aset/14.png)
+
 
 > [! info]- Analisis pembagian < dan >
 >> `$a = 5;` : berfungsi sebagai variable yang memiliki nilai "5"
@@ -216,7 +213,7 @@ if ($a >= $b) {
 }
 ```
 **Hasil :**
-![gambar](aset/15.png)
+
 
 > [! info]- Analisis pembagian >= dan =<
 >> `$a = 5;` : berfungsi sebagai variable yang memiliki nilai "5"
@@ -237,7 +234,7 @@ $nilai_b = 5;
 echo ($nilai_a > 0 && $nilai_b > 0) ? "Kedua nilai \$nilai_a dan \$nilai_b positif." : "Salah satu atau kedua nilai \$nilai_a dan \$nilai_b tidak positif.";
 ```
 **Hasil :**
-![gambar](aset/16.png)
+
 
 > [! info]- Analisis logika AND
 >> `$a = 10;` : berfungsi sebagai variable yang memiliki nilai "10"
@@ -253,7 +250,7 @@ $usia = 25;
 echo ($usia < 18 || $usia > 60) ? "Anda tidak termasuk dalam rentang usia yang diizinkan." : "Anda termasuk dalam rentang usia yang diizinkan.";
 ```
 **Hasil :**
-![gambar](aset/17.png)
+
 
 > [! info]- Analisis logika OR
 >> `$a = 10;` : berfungsi sebagai variable yang memiliki nilai "10"
@@ -269,7 +266,7 @@ $telah_login = false;
 echo (!$telah_login) ? "Anda belum login." : "Anda sudah login.";
 ```
 **Hasil :**
-![gambar](aset/18.png)
+
 
 > [! info]- Analisis logika NOT
 >> `$a = 10;` : berfungsi sebagai variable yang memiliki nilai "10"
@@ -291,7 +288,7 @@ if (nilai_a > nilai_b) {
 }
 ```
 **Hasil :**
-![gambar](aset/19.png)
+
 
 > [! info]- Analisis IF
 >> `$a = 10;` : berfungsi sebagai variable yang memiliki nilai "10"
@@ -312,7 +309,7 @@ if ($nilai_a < "15") {
 }
 ```
 **Hasil :**
-![gambar](aset/19.png)
+
 
 > [! info]- Analisis IF ELSE
 >> `$a = 10;` : berfungsi sebagai variable yang memiliki nilai "10"
@@ -334,7 +331,7 @@ if ($nilai_a < "9") {
 }
 ```
 **Hasil :**
-![gambar](aset/19.png)
+
 
 > [! info]- Analisis IF ELSE ELSE
 >> `$a = 10;` : berfungsi sebagai variable yang memiliki nilai "10"
@@ -362,7 +359,7 @@ switch ($favcolor) {
 }
 ```
 **Hasil :**
-!![gambar](aset/20.png)
+
 
 > [! info]- Analisis Switch Case
 >> `$favcolor = "red";` : adalah sebuah variable yang menyimpan nilai "red"
@@ -380,7 +377,7 @@ $cars = array("Volvo", "BMW", "Toyota");
 echo $cars[0];
 ```
 **Hasil :**
-![gambar](aset/22.png)
+
 
 > [! info]- Analisis Array 1 Dimensi
 >> `$cars` : adalah nama dari variable yang menyimpan nilai nilai di dalamnya.
@@ -396,7 +393,7 @@ $car = array("brand"=>"Ford", "model"=>"Mustang", "year"=>1964);
 echo $car["model"];
 ```
 **Hasil :**
-![gambar](aset/23.png)
+
 
 > [! info]- Analisis Array Asosiatif
 >> `$cars` : adalah nama dari variable yang menyimpan nilai nilai di dalamnya.
@@ -417,7 +414,7 @@ $cars = array (
 );
 ```
 **Hasil :**
-![gambar](aset/21.png)
+
 
 > [! info]- Analisis Array Asosiatif
 >> `$cars` : adalah nama dari variable yang menyimpan nilai nilai di dalamnya.
@@ -431,7 +428,7 @@ Array kali ini dapat menyimpan sangat banyak data dan di bagi dalam bermacam mac
 php $angka = 123; var_dump($angka);
 ```
 **Hasil :**
-![gambar](aset/24.png)
+
 
 **Kesimpulan :**
 `var_dump` akan menampilkan informasi rinci program yang telah kita ketikkan 
@@ -446,7 +443,6 @@ for ( $nilai_a = 0; $nilai_a <= 5; $nilai_a++) {
 }
 ```
 **Hasil** :
-![gambar](aset/25.png)
 
 > [! info]- Analisis WHILE
 >>1. `for (`: Ini menandakan awal dari deklarasi for loop.
@@ -469,7 +465,7 @@ while ($nilai < 6) {
 }
 ```
 **Hasil :**
-![gambar](aset/26.png)
+
 
 > [! info]- Analisis WHILE 
 > >> 1. `$nilai = 1;`: Variabel `$nilai` diinisialisasi dengan nilai 1.
@@ -491,7 +487,7 @@ do {
 } while ($nilai < 6);
 ```
 **Hasil :**
-![gambar](aset/27.png)
+
 
 > [! info]- Analisis Do-While
 > >> 1. `$nilai = 1;`: Variabel `$nilai` diinisialisasi dengan nilai 1.
@@ -511,7 +507,7 @@ foreach ($numbers as $number) {
 echo "Angka: $number\n"; }
 ```
 **Hasil :**
-![gambar](aset/28.png)
+
 
 > [! info]- Analisis Foreach
 > >> 1. `$nilai = 1;`: Variabel `$nilai` diinisialisasi dengan nilai 1.
@@ -526,7 +522,7 @@ echo "Hello, $name!"; }
 greet("Alice");
 ```
 **Hasil :**
-![gambar](aset/29.png)
+
 
 > [! info]- Analisis Function
 > >> 1. `greet` : adalah nama dari function yang dibuat
@@ -547,7 +543,7 @@ Kode html :
 </form>
 ```
 **Hasil :**
-![gambar](aset/30.png)
+
 
 > [! info]- Analisis Form
 > >> 1. `input type="text"` : untuk membuat kolom form bertipe text
@@ -591,9 +587,9 @@ $umur = $_GET["umur"];
 ```
 **Hasil :**
 HTML :
-![gambar](aset/31.png)
+
 PHP :
-![gambar](aset/32.png)
+
 
 > [! info]- Analisis GET PHP
 > >> 1. `<form action="proses_get.php" method="GET">` : berfungsi untuk menghubungkan nilai dari form ke dokumen `proses_get.php`.
@@ -636,9 +632,9 @@ $umur = $_POST["umur"];
 ```
 **Hasil :**
 HTML :
-![gambar](aset/33.png)
+
 PHP :
-![gambar](aset/34.png)
+
 
 > [! info]- Analisis POST PHP
 > >> 1. `<form action="proses_post.php" method="POST">` : berfungsi untuk menghubungkan nilai dari form ke dokumen `proses_POST.php`.
@@ -700,7 +696,7 @@ foreach ($select as $key => $data) {
 ?>
 ```
 **Hasil :**
-![gambar](aset/36.png)
+
 
 > [! info]- Analisis Tampilkan Data
 >>`<?Php` tag pembuka php
@@ -766,7 +762,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </html>
 ```
 **Hasil :**
-![gambar](aset/37.png)
 ## Penjelasan
 - `include 'database.php';`: mengimpor file database.php, yang mungkin berisi informasi koneksi ke database (seperti hostname, username, password, dan nama database).
 - `if ($_SERVER["REQUEST_METHOD"] == "POST") {`: memeriksa apakah metode request adalah POST. Ini berarti bahwa form telah disubmit oleh pengguna.
@@ -880,7 +875,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </html>
 ```
 **Hasil :**
-![gambar](aset/38.png)
+
 ## Penjelasan
 - `include "koneksi.php";` : 
 - 1. `include "koneksi.php";` : Menyertakan file `koneksi.php` untuk menghubungkan ke database.
@@ -934,7 +929,7 @@ if(isset($_GET['id'])){
 ?>
 ```
 **Hasil :**
-![gambar](aset/39.png)
+
 
 ### Penjelasan
 - `<?php include('koneksi.php');` : - Menyertakan file `koneksi.php` untuk menghubungkan ke database.
@@ -1006,7 +1001,7 @@ if (isset($_POST['submit'])) {
 </html>
 ```
 **Hasil :**
-![gambar](aset/40.png)
+
 
 **Query Log out :**
 ```php
@@ -1021,7 +1016,7 @@ header('Location: login.php');
 ## Upload & Download 
 ```
 **Hasil :**
-![gambar](aset/41.png)
+
 
 ### Penjelasan Login
 - `session_start();` :  Memulai atau melanjutkan sesi pengguna.
@@ -1088,9 +1083,7 @@ foreach ($data as $row) {
 fclose($output);
 exit;
 ```
-**Hasil :**
-![gambar](aset/42.png)
-
+**Hasil :
 ### Penjelasan
 - `<!DOCTYPE html>`: Mendefinisikan versi HTML yang digunakan, ini HTML5.
 - `<html lang="en">`: Menentukan bahasa dokumen sebagai bahasa Inggris.
@@ -1163,7 +1156,7 @@ exit;
 
 ```
 **Hasil :**
-![gambar](aset/43.png)
+
 ## Penjelasan
 - `<!DOCTYPE html>`: Mendefinisikan versi HTML yang digunakan, ini HTML5.
 - `<html lang="en">`: Menentukan bahasa dokumen sebagai bahasa Inggris.
