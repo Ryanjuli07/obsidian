@@ -99,12 +99,15 @@ body {
   background: linear-gradient(to right, red, yellow);
   border-radius: 10px;
 }
-
 ```
 
-hasil:
+
+hasil
+
 
 ![img](aset/img18.jpg)
+
+
 ## cara pengunaan gradient generator 
  1. tekan ling ini https://cssgradient.io/
  2. setelah masuk pilih salah satu yang ada di bawah ini
@@ -117,5 +120,6 @@ hasil:
 ![img](css/aset/img19.jpg)
 
 4. setelah sudah memilih warna maka salin lah kode program di bawak ini lalu tempel di background program anda
+
 
 ![img](css/aset/img15.jpg)

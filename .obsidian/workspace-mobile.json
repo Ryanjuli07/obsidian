@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/Pengenalan CSS.md",
-                "mode": "preview",
+                "file": "perbaikan/perbaikan html.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "css/Pengenalan CSS.md",
+            "file": "perbaikan/perbaikan html.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "css/Pengenalan CSS.md",
+            "file": "perbaikan/perbaikan html.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "css/Pengenalan CSS.md"
+            "file": "perbaikan/perbaikan html.md"
           }
         }
       }
@@ -144,17 +144,27 @@
   },
   "active": "2dc903f34bd55b72",
   "lastOpenFiles": [
+    "perbaikan/perbaikan css.md",
+    "html/form.md",
+    "html/materi html (5).md",
+    "perbaikan/perbaikan html.md",
+    "html/pembuatan website (4).md",
+    "perbaikan/perbaikan php.md",
+    "html/pengenalan (2).md",
     "php/PHP Dasar.md",
+    "basis data/2. Basis Data/Pengenalan Mysql.md",
+    "css/Pengenalan CSS.md",
+    "basis data/2. Basis Data/Select Lanjutan.md",
+    "perbaikan",
+    "basis data/2. Basis Data/Alter.md",
+    "basis data/alter tabel.md",
+    "css/materi gradient (manual dan generator).md",
+    "basis data/basis data (3).md",
+    "basis data/select.md",
     "php/aset/9.png",
     "php/aset/22.png",
     "php/aset/12.png",
-    "css/materi gradient (manual dan generator).md",
-    "basis data/alter tabel.md",
-    "html/form.md",
-    "html/materi html (5).md",
-    "html/pembuatan website (4).md",
     "html/remedial ulangan.md",
-    "css/Pengenalan CSS.md",
     "css/aset/IMG13.jpg",
     "css/aset/IMG15.jpg",
     "css/aset/IMG4/IMG4_(3).jpg",
@@ -162,9 +172,7 @@
     "css/aset/IMG4/IMG4_(1).jpg",
     "css/aset/IMG3/IMG2.jpg",
     "css/aset/IMG2/IMG2.jpg",
-    "basis data/2. Basis Data/Alter.md",
     "html/pertemuan 1.md",
-    "html/pengenalan (2).md",
     "css/Remedial pesona.md",
     "css/remedial pesona/Pesona indonesia.md",
     "css/remedial pesona",
@@ -173,21 +181,14 @@
     "aset.md",
     "2024-04-29.md",
     "Image.1.jpg.md",
-    "basis data/2. Basis Data/Select Lanjutan.md",
     "praktikum/Catatan.md",
-    "basis data/select.md",
-    "basis data/2. Basis Data/Pengenalan Mysql.md",
     "basis data/insert & select.md",
-    "basis data/basis data (3).md",
-    "basis data/panduan termux.md",
     "basis data/2. Basis Data/Aset/IMG8",
     "basis data/2. Basis Data/Aset/IMG7",
     "basis data/2. Basis Data/Aset/IMG6",
     "basis data/2. Basis Data/Aset/IMG5",
     "basis data/2. Basis Data/Aset/IMG4",
     "basis data/2. Basis Data/Aset/IMG3",
-    "basis data/2. Basis Data/Aset/IMG2",
-    "basis data/2. Basis Data/Aset/IMG1",
-    "basis data/Untitled.md"
+    "basis data/2. Basis Data/Aset/IMG2"
   ]
 }
