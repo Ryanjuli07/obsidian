@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perbaikan/perbaikan html.md",
+                "file": "dart/remedial.dart.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "perbaikan/perbaikan html.md",
+            "file": "dart/remedial.dart.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "perbaikan/perbaikan html.md",
+            "file": "dart/remedial.dart.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "perbaikan/perbaikan html.md"
+            "file": "dart/remedial.dart.md"
           }
         }
       }
@@ -144,22 +144,35 @@
   },
   "active": "2dc903f34bd55b72",
   "lastOpenFiles": [
+    "dart/remedial.dart.md",
+    "Anonymous Function and Scope.md",
+    "dart",
+    "basis data/basis data kls Xll RPL 1.md",
+    "basis data/basis_data kls Xll rpl 1/Untitled.md",
+    "basis_data/Untitled.md",
+    "basis data/basis_data kls Xll rpl 1",
+    "basis data/basis data (3).md",
+    "basis_data/group by & having/Untitled.md",
+    "basis_data/group by & having",
+    "basis_data",
+    "perbaikan/perbaikan php.md",
+    "Untitled",
+    "basis data/2. Basis Data/Select Lanjutan.md",
+    "perbaikan/perbaikan basis data.md",
+    "basis data/2. Basis Data/Pengenalan Mysql.md",
+    "basis data/2. Basis Data/remedial basis data.md",
+    "perbaikan/perbaikan html.md",
     "perbaikan/perbaikan css.md",
     "html/form.md",
     "html/materi html (5).md",
-    "perbaikan/perbaikan html.md",
     "html/pembuatan website (4).md",
-    "perbaikan/perbaikan php.md",
     "html/pengenalan (2).md",
     "php/PHP Dasar.md",
-    "basis data/2. Basis Data/Pengenalan Mysql.md",
     "css/Pengenalan CSS.md",
-    "basis data/2. Basis Data/Select Lanjutan.md",
     "perbaikan",
     "basis data/2. Basis Data/Alter.md",
     "basis data/alter tabel.md",
     "css/materi gradient (manual dan generator).md",
-    "basis data/basis data (3).md",
     "basis data/select.md",
     "php/aset/9.png",
     "php/aset/22.png",
@@ -173,22 +186,9 @@
     "css/aset/IMG3/IMG2.jpg",
     "css/aset/IMG2/IMG2.jpg",
     "html/pertemuan 1.md",
-    "css/Remedial pesona.md",
-    "css/remedial pesona/Pesona indonesia.md",
     "css/remedial pesona",
     "css/remedial pesona/Aset",
-    "css/pengenalan CSS.md",
-    "aset.md",
-    "2024-04-29.md",
-    "Image.1.jpg.md",
-    "praktikum/Catatan.md",
-    "basis data/insert & select.md",
     "basis data/2. Basis Data/Aset/IMG8",
-    "basis data/2. Basis Data/Aset/IMG7",
-    "basis data/2. Basis Data/Aset/IMG6",
-    "basis data/2. Basis Data/Aset/IMG5",
-    "basis data/2. Basis Data/Aset/IMG4",
-    "basis data/2. Basis Data/Aset/IMG3",
-    "basis data/2. Basis Data/Aset/IMG2"
+    "basis data/2. Basis Data/Aset/IMG7"
   ]
 }

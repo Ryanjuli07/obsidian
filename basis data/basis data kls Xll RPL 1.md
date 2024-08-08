@@ -1,0 +1,10 @@
+# GROUP BY
+# HAVING
+# JOIN 
+# SUB QUERY
+# TRIGGER
+# DCL (DATA CONTROL LANGUAGE)
+# DB + WEB
+## Relasi
+## trigger 
+# LARAVEL
